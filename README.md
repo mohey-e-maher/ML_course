@@ -13,5 +13,6 @@
 - 🔁 [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 ---------------------------------------------------
-<img src="doaadoaa.jpg" width = "200px">
+<img src="doaa.jpg" alt="اللهم انفعني بما علمتني وعلمني ما ينفعني" width = "200px" align="center">
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 All finished courses will mark with (✅) and the courses will be in progress will mark it with (🔁)
