@@ -1,7 +1,7 @@
 # Machine Learning 
 -----------------------------------------------
-## that's all materials that have about the Machine Learning course 
-## my sources for this coude will be:
+## that's all the materials that I have about the Machine Learning course 
+## my sources for this course will be:
 - 🟠 youtube playlists : 
 - [Machine Learning Course - CS 156](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
 - [Machine Intelligence Course by Hamid Tizhoosh, Waterloo](https://www.youtube.com/watch?v=tExPpuk-UQ8&list=PLTWMfSykrrxfwhr-DdvX2Yzt8gNoILCFA&pp=iAQB)
@@ -13,6 +13,6 @@
 - 🔁 [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 ---------------------------------------------------
-<img src="doaa.jpg" alt="اللهم انفعني بما علمتني وعلمني ما ينفعني" width = "200px" align="center">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="doaa.jpg" alt="اللهم انفعني بما علمتني وعلمني ما ينفعني" width = "300px" align="center">
+
 All finished courses will mark with (✅) and the courses will be in progress will mark it with (🔁)
